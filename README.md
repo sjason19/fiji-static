@@ -1,10 +1,4 @@
-# react-firebase-authentication
-
-[![Build Status](https://travis-ci.org/rwieruch/react-firebase-authentication.svg?branch=master)](https://travis-ci.org/rwieruch/react-firebase-authentication)
-
-* Found in [Taming the State in React](https://roadtoreact.com/course-details?courseId=TAMING_THE_STATE)
-* [Live](https://react-firebase-authentication.wieruch.com/)
-* [Tutorial](https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/)
+# fiji-static
 
 ## Features
 
@@ -25,15 +19,9 @@
 
 ## Installation
 
-* `git clone git@github.com:rwieruch/react-firebase-authentication.git`
-* `cd react-firebase-authentication`
+* `git clone git@github.com:sjason19/fiji-static.git`
+* `cd fiji-static`
 * `npm install`
 * `npm start`
 * visit http://localhost:3000/
-* Use your own Firebase Credentials
-
-### Use your own Firebase Credentials
-
-* visit https://firebase.google.com/ and create a Firebase App
-* copy and paste your Credentials from your Firebase App into src/firebase/firebase.js
-* activate Email/Password Sign-In Method in your Firebase App
+* Contact me for appropriate firebase credentials
